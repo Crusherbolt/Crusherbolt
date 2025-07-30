@@ -70,8 +70,7 @@ I’m keen to work on:
 - **Web3 and blockchain-based products**
 - **AI assistants and voice/vision-driven applications**
 
-📫 **Reach me** at *vidhan365@gmail.com* or connect via LinkedIn.
-::contentReference[oaicite:5]{index=5}
+📫 **Reach me** at *vidhan365@gmail.com* or connect via LinkedIn(https://www.linkedin.com/in/vidhan-gupta-118940332).
 
 
 <!---
