@@ -71,6 +71,22 @@ I’m keen to work on:
 - **AI assistants and voice/vision-driven applications**
 
 📫 **Reach me** at *vidhan365@gmail.com* or connect via LinkedIn(https://www.linkedin.com/in/vidhan-gupta-118940332).
+<p align="center">
+  <a href="https://www.linkedin.com/in/vidhan-gupta-118940332/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  </a>
+</p>
+
+
+## 📄 Resume  
+Want to know more about my journey?  
+[Click here to view my resume](https://drive.google.com/file/d/1BBAxP6w7I2QTBH_i5cr0poKqYE2usckq/view?usp=sharing)
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1BBAxP6w7I2QTBH_i5cr0poKqYE2usckq/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button"/>
+  </a>
+</p>
 
 
 <!---
