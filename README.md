@@ -20,7 +20,7 @@ I’m a passionate **developer and AI enthusiast** with a keen interest in **fin
 | Role | Full-stack • AI integration |
 |------|------------------------------|
 | **What it is** | A web-based IDE powered by **voice commands**, **visual input**, and **real-time AI coding assistance**. Users can edit code hands-free, pausing keyboard interaction entirely.  
-| **Technologies** | TypeScript, React, Web Speech API, Gemini AI, WebRTC for screen input :contentReference[oaicite:1]{index=1}  
+| **Technologies** | TypeScript, React, Web Speech API, Gemini AI, WebRTC for screen input. 
 
 ---
 
@@ -28,7 +28,7 @@ I’m a passionate **developer and AI enthusiast** with a keen interest in **fin
 | Role | Lead Developer • AI assistant prototype |
 |------|-------------------------------------------|
 | **What it is** | A conversational medical assistant built with GPT‑4 Vision. It predicts conditions from symptoms and responds with tailored advice.  
-| **Technologies** | Python backend, GPT‑4 Vision API, Next.js frontend, Tailwind CSS :contentReference[oaicite:2]{index=2}  
+| **Technologies** | Python backend, GPT‑4 Vision API, Next.js frontend, Tailwind CSS.  
 
 ---
 
@@ -43,9 +43,9 @@ I’m a passionate **developer and AI enthusiast** with a keen interest in **fin
 ## 🧩 Additional Repositories & Work
 
 - **Custom‑TestNet‑Deployment:** An ERC‑20 deployment pipeline using thirdweb SDK and Ethers.js for blockchain deployment.  
-  :contentReference[oaicite:3]{index=3}  
+   
 - **JS‑main:** JavaScript fundamentals series covering scope, OOP, DOM manipulation, and more.  
-  :contentReference[oaicite:4]{index=4}  
+  
 
 ---
 
@@ -80,10 +80,10 @@ I’m keen to work on:
 
 ## 📄 Resume  
 Want to know more about my journey?  
-[Click here to view my resume](https://drive.google.com/file/d/1BBAxP6w7I2QTBH_i5cr0poKqYE2usckq/view?usp=sharing)
+[Click here to view my resume](https://drive.google.com/file/d/1FwmTcssX2eGymh96HuNTRTwXC3ZPVWGB/view?usp=sharing)
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1BBAxP6w7I2QTBH_i5cr0poKqYE2usckq/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1FwmTcssX2eGymh96HuNTRTwXC3ZPVWGB/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button"/>
   </a>
 </p>
