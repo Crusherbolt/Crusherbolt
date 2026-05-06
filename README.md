@@ -37,10 +37,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crusherbolt&bg_color=F8FAFC&color=0F766E&line=14B8A6&point=134E4A&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Crusherbolt&show_icons=true&bg_color=F8FAFC&title_color=0F766E&text_color=334155&icon_color=14B8A6&hide_border=true&border_radius=12" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crusherbolt&layout=compact&bg_color=F8FAFC&title_color=0F766E&text_color=334155&hide_border=true&border_radius=12&langs_count=8" alt="Most used languages" />
-</p>
 
 ---
 
