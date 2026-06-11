@@ -9,8 +9,11 @@
 </p>
 
 <p align="center">
-  Developer building practical software across AI, cloud, finance, and full-stack systems.
+  🚀 Built my first app at 14: 
+  <a href="https://apkpure.net/sonic-vpn/com.vpn.sonic" target="_blank"><b>Sonic VPN</b></a>  
+  (10,000+ downloads)
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vidhan-gupta-118940332/" target="_blank">
